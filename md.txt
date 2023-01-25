@@ -1,0 +1,8 @@
+//Declaro e atribuo valor
+let boasVindas= "Fala, Dev!"
+
+//Reatribuo valor
+boasVindas = `Fala, Dev! Tudo beleza?´
+
+//Constante não pode mudar o valor
+const serHumano = true
